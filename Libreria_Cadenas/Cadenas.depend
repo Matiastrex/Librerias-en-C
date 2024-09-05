@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1714507149 source:c:\users\matia\onedrive\matÍas\unlam\primer cuatrimestre 2024\tópicos de programación\clase 3 - 16-04-24\cadenas\cadenas.c
+	"cadenas.h"
+
+1714507262 source:c:\users\matia\onedrive\matÍas\unlam\primer cuatrimestre 2024\tópicos de programación\clase 3 - 16-04-24\cadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cadenas.h"
+
+1714504463 c:\users\matia\onedrive\matÍas\unlam\primer cuatrimestre 2024\tópicos de programación\clase 3 - 16-04-24\cadenas\cadenas.h
+	<stddef.h>
+	<string.h>
+	<stdio.h>
+
+1714507149 source:c:\users\matia\desktop\repositorio\libreria_cadenas\cadenas.c
+	"cadenas.h"
+
+1725239981 c:\users\matia\desktop\repositorio\libreria_cadenas\cadenas.h
+	<stddef.h>
+	<string.h>
+	<stdio.h>
+

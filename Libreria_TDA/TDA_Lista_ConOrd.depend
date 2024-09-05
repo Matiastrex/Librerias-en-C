@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1696017011 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2023\tópicas de programación\semana 6 (22-09-2023)\tda_lista_conord\listaimpldinamica.c
+	"ListaImplDinamica.h"
+
+1696015024 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2023\tópicas de programación\semana 6 (22-09-2023)\tda_lista_conord\listaimpldinamica.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<time.h>
+
+1696027317 source:c:\users\laboratorios\desktop\tda_lista_conord\listaimpldinamica.c
+	"ListaImplDinamica.h"
+
+1696027676 c:\users\laboratorios\desktop\tda_lista_conord\listaimpldinamica.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<time.h>
+
+1696027520 source:c:\users\laboratorios\desktop\tda_lista_conord\main.c
+	"ListaImplDinamica.h"
+
+1696028222 source:c:\users\laboratorios\desktop\tda_lista_conord\clase.c
+
+1696028222 source:c:\users\laboratorios\desktop\tda_lista_conord\listaimplgenerica.c
+	"ListaImplGenerica.h"
+
+1696028407 c:\users\laboratorios\desktop\tda_lista_conord\listaimplgenerica.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<time.h>
+
+1696534711 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2023\tópicas de programación\semana 7 (29-09-2023)\tda_lista_conord\clase.c
+
+1696034627 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2023\tópicas de programación\semana 7 (29-09-2023)\tda_lista_conord\listaimpldinamica.c
+	"ListaImplDinamica.h"
+
+1696034627 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2023\tópicas de programación\semana 7 (29-09-2023)\tda_lista_conord\listaimpldinamica.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<time.h>
+
+1697501411 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2023\tópicas de programación\semana 7 (29-09-2023)\tda_lista_conord\main.c
+	"ListaImplGenerica.h"
+
+1697501507 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2023\tópicas de programación\semana 7 (29-09-2023)\tda_lista_conord\listaimplgenerica.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<time.h>
+	<string.h>
+
+1697501445 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2023\tópicas de programación\semana 7 (29-09-2023)\tda_lista_conord\listaimplgenerica.c
+	"ListaImplGenerica.h"
+

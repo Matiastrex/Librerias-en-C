@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1716914439 source:c:\users\matia\onedrive\matÍas\unlam\primer cuatrimestre 2024\tópicos de programación\libreria_genericos\libreria_genericos\main.c
+	"funcionesGenericas.h"
+
+1716914360 c:\users\matia\onedrive\matÍas\unlam\primer cuatrimestre 2024\tópicos de programación\libreria_genericos\libreria_genericos\funcionesgenericas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1716914153 source:c:\users\matia\onedrive\matÍas\unlam\primer cuatrimestre 2024\tópicos de programación\libreria_genericos\libreria_genericos\funcionesgenericas.c
+	"funcionesGenericas.h"
+	<string.h>
+
+1716914690 source:c:\users\matia\desktop\repositorio\libreria_genericos\funcionesgenericas.c
+	"funcionesGenericas.h"
+	<string.h>
+
+1716933783 c:\users\matia\desktop\repositorio\libreria_genericos\funcionesgenericas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1716914690 source:c:\users\matia\desktop\repositorio\libreria_genericos\main.c
+	"funcionesGenericas.h"
+

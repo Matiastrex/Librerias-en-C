@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1715464267 source:c:\users\matia\onedrive\matÍas\unlam\primer cuatrimestre 2024\tópicos de programación\clase 4 - 30-04-24\matrices\main.c
+	"Matrices.h"
+
+1715705753 c:\users\matia\onedrive\matÍas\unlam\primer cuatrimestre 2024\tópicos de programación\clase 4 - 30-04-24\matrices\matrices.h
+	<stdio.h>
+
+1718488481 source:c:\users\matia\onedrive\matÍas\unlam\primer cuatrimestre 2024\tópicos de programación\clase 4 - 30-04-24\matrices\matrices.c
+	"Matrices.h"
+
+1718488481 source:c:\users\matia\desktop\repositorio\libreria_matrices\matrices.c
+	"Matrices.h"
+
+1725562049 c:\users\matia\desktop\repositorio\libreria_matrices\matrices.h
+	<stdio.h>
+	<stdlib.h>
+
+1725239855 source:c:\users\matia\desktop\repositorio\libreria_matrices\main.c
+	"Matrices.h"
+
